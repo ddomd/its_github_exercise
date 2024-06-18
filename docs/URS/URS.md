@@ -95,4 +95,4 @@ YYYY
 | --- | ----------- | -------- |
 | 1.0 | XXXXX       | M        |
 
-![Ciao!](https://C:\Users\lenov\Documents\GitHub\Exercise\docs\URS\imgs\atm.png)
+![Ciao!](https://C:\Users\lenov\Documents\GitHub\its_github_exercise\docs\URS\imgs\atm.png)
